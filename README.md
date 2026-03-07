@@ -8,6 +8,7 @@ The objective is to implement an end-to-end automated cloud deployment architect
 
 ---
 
+
 ## 🏗️ Architecture
 
 Developer → GitHub Repository → GitHub Actions → DockerHub → AWS EC2 → Docker Container
